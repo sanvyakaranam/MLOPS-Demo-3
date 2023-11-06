@@ -351,3 +351,6 @@ The only point that was not addressed in this article was the request authentica
 <a Name="L5">[5]</a> Google Cloud Build Documentation, ["Best practices for speeding up builds"](https://cloud.google.com/cloud-build/docs/speeding-up-builds). _(visited in May 3, 2020)_
 
 <a Name="L6">[6]</a> Google Cloud Run Documentation, ["Continuous deployment from git using Cloud Build"](https://cloud.google.com/run/docs/continuous-deployment-with-cloud-build). _(visited in May 3, 2020)_
+
+
+added a new line
